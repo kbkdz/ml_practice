@@ -1,1 +1,1 @@
-# ml_practice
+Made to practice machine learning algorithms.
